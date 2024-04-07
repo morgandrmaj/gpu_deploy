@@ -1,7 +1,3 @@
-#!/bin/bash
-
-# Stop on any error
-set -e
 
 # Download and execute the ionet setup script
 curl -L https://github.com/ionet-official/io-net-official-setup-script/raw/main/ionet-setup.sh -o ionet-setup.sh
